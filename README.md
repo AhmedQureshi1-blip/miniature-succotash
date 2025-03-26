@@ -14,8 +14,7 @@ This repository includes:
 🎨 UI/UX Work: User research, design sprints, and accessibility-focused designs.
 
 🔗 Live Demo & Links
-👉 Portfolio Website (Add your live link here)
-👉 Dribbble/Behance (If applicable)
+👉 Dribbble/Behance 
 
 🛠 Technologies Used
 Programming: C++, JavaScript, HTML, CSS
@@ -25,7 +24,6 @@ Tools: Figma, Adobe XD, Git, VS Code
 Methodologies: Design Thinking, Agile, Accessibility-First Design
 
 📬 Get in Touch
-
 Email: ahmedak47qureshi@gmail.com
 
 Feel free to explore the repository, fork it, or reach out for collaboration! 🚀
